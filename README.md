@@ -8,6 +8,8 @@ It should also be noted that many of the .ogg files present in this mod are heav
 
 ### Installation
 
+Since this is just a repo of the edited music files and the patch, making releases makes no sense. Thus, **please download the mod by clicking the green "Code" button up top and "Download ZIP".** This will give you a ZIP file of everything. 
+
 Use [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) to apply the .xdelta to the `data.win` of a **2022 Steam version** of [ZeroRanger](https://store.steampowered.com/app/809020/ZeroRanger/). Then copy all the `.ogg` files from the archive to your ZeroRanger folder. Allow overwriting, and do not touch the new files. Then just launch.
 
 ### How does it pick the tracks?
