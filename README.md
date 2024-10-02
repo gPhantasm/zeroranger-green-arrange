@@ -28,11 +28,12 @@ and a few others. Special thanks to Kirvoid for showing me how to add new tracks
 
 ~~Some tracks~~ ONE TRACK was omitted because I was simply too lazy to figure out how to fit it in. The Earth Has Returned is very transformed from the original track, and it didn't really fit the vibe of 2-3 anyway. I could have just included it unchanged, but if you got it randomly and felt it didn't fit that would've been sad... If you want to fit it and add it yourself, just overwrite one of the `bgm_level_three_ex` files with your creation.
 
-Also... There is no Orangardimus. I initially had it play a segment of That Future of Ours, but it's kind of annoying when it cuts off the Greenish remixes (imo). So Greenish will just play through that miniboss always. There is currently an issue where the music will not kick in again upon using a continue at this segment. It's probably easy to fix, but it's currently broken.
+Also... There is no Orangardimus. I initially had it play a segment of That Future of Ours, but it's kind of annoying when it cuts off the Greenish remixes (imo). So Greenish will just play through that section.
 
 ### Other changes
 
 - The male voice's "MAXIMUM" soundbite has been replaced with eebrozgi yelling "ZERORANGER!".
+- Some flavour text has been modified to match some tracks. There might be more of this in the future.
 - Some extra palettes have been included if you've beaten the TLB.
     - If you use these palettes, it will reset to COOL DAY every time you close the game. This is because the save file has clamping on the palettes that can be set. I don't want to touch how save files work!
 - While I've tested most of the game out, I don't know if some edge cases will crash or behave weirdly. Please let me know on Discord (`gooeyphantasm`) or make an issue here and I'll maybe fix it if I know how.
