@@ -8,14 +8,14 @@
         "bgm_bonuswave": {
             "choices": [
                 {
-                    "file": "bgm_bonuswave.ogg",
+                    "file": "bgm_bonuswave2.ogg",
                     "name": "DREAMLIKE REALITY \n-SV3T0V1D-\nSOOTHINGMELODY",
                     "hack_drmrlt_name_1": "DREAMLIKE REALITY \n-SV3T0V1D-\nSOOTHINGMELODY",
                     "hack_drmrlt_name_2": "DRM/RLT\nDANTE GOFAR",
                     "hack_drmrlt_name_3": "DRM/RLT\nDANTE GOFAR"
                 },
                 {
-                    "file": "bgm_bonuswave2.ogg",
+                    "file": "bgm_bonuswave.ogg",
                     "name": "DRM/RLT\nDANTE GOFAR"
                 }
             ]
