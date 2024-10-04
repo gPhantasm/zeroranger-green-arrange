@@ -1,6 +1,16 @@
 {
     "pack_name": "GREEN ARRANGE",
+    "hacks": {
+        "no_orangardimus": true,
+        "no_2-1_bossay": true,
+        "despair_pinch_custom": true,
+        "custom_zeroranger_male_shout": true
+    },
     "replacements": {
+        "_hack_custom_zeroranger_male_shout": {
+            "file": "ZRORANGER.ogg",
+            "name": "ZERORANGER\nEEBROZGI"
+        },
         "bgm_allclear": {
             "file": "bgm_allclear.ogg",
             "name": "HYYEEAAAARH\n+TEK"
@@ -11,14 +21,15 @@
                     "file": "bgm_bonuswave2.ogg",
                     "name": "DREAMLIKE REALITY \n-SV3T0V1D-\nSOOTHINGMELODY",
                     "hack_drmrlt_name_1": "DREAMLIKE REALITY \n-SV3T0V1D-\nSOOTHINGMELODY",
-                    "hack_drmrlt_name_2": "DRM/RLT\nDANTE GOFAR",
-                    "hack_drmrlt_name_3": "DRM/RLT\nDANTE GOFAR"
+                    "hack_drmrlt_name_2": "DRM/RLT\nDANTE GOFAR 2",
+                    "hack_drmrlt_name_4": "DRM/RLT\nDANTE GOFAR 4"
                 },
                 {
                     "file": "bgm_bonuswave.ogg",
                     "name": "DRM/RLT\nDANTE GOFAR"
                 }
-            ]
+            ],
+            "choices_sync": 1
         },
         "bgm_boss_a": {
             "file": "bgm_boss_a.ogg",
@@ -42,7 +53,8 @@
                     "file": "bgm_boss_security2.ogg",
                     "name": "FOR YOUR SECURITY\n~COSIO TRIPL3T REMIX~\nCOSIO"
                 }
-            ]
+            ],
+            "choices_sync": 2
         },
         "bgm_crisis": {
             "file": "bgm_crisis.ogg",
@@ -58,11 +70,12 @@
                     "file": "bgm_decisivefight2.ogg",
                     "name": "COLOURS OF MY SKY\nR-MAN FT. KANACHI"
                 }
-            ]
+            ],
+            "choices_sync": 3
         },
         "bgm_despair1": {
             "file": "bgm_despair1.ogg",
-            "name": "DESCENT AT LAST\n~AN ECHO OF HEAVEN~"
+            "name": "DESCENT AT LAST\n~AN ECHO OF HEAVEN~\nMELOS HAN-TANI"
         },
         "bgm_despair2": {
             "file": "bgm_despair2.ogg",
@@ -103,7 +116,8 @@
                     "file": "bgm_gameover2.ogg",
                     "name": "THE ADVENTURE OF LIFE GOES ON\n~OUR CRY TO INFINITY~\nHEAVYVIPER"
                 }
-            ]
+            ],
+            "choices_sync": 4
         },
         "bgm_getfiredup": {
             "file": "bgm_getfiredup.ogg",
@@ -127,7 +141,8 @@
                     "file": "bgm_hellloop2.ogg",
                     "name": "HEAVY HEART\n-AIR MIX-\nAIKATYPE"
                 }
-            ]
+            ],
+            "choices_sync": 5
         },
         "bgm_itsjustalake": {
             "choices": [
@@ -139,7 +154,8 @@
                     "file": "bgm_itsjustalake2.ogg",
                     "name": "HEAVY HEART\n-AIR MIX-\nAIKATYPE"
                 }
-            ]
+            ],
+            "choices_sync": 5
         },
         "bgm_juicestall": {
             "file": "bgm_juicestall.ogg",
@@ -159,7 +175,8 @@
                     "file": "bgm_level_four_b2.ogg",
                     "name": "UNSTOPPING\nCEASELESS CARAVAN ARRANGE\nHEAVYVIPER"
                 }
-            ]
+            ],
+            "choices_sync": 6
         },
         "bgm_level_four_throat": {
             "file": "bgm_level_four_throat.ogg",
@@ -179,7 +196,8 @@
                     "file": "bgm_level_one2.ogg",
                     "name": "IT MAY BE GREENISH\n-ETERNAL 80'S ARRANGE-\nLOSER KASHIWAGI"
                 }
-            ]
+            ],
+            "choices_sync": 7
         },
         "bgm_level_one_ex": {
             "file": "bgm_level_one_ex.ogg",
@@ -203,7 +221,8 @@
                     "file": "bgm_level_three_ex3.ogg",
                     "name": "THE SEA HAS RETURNED:\nBENEATH THE WAVES\nRAITO"
                 }
-            ]
+            ],
+            "choices_sync": 8
         },
         "bgm_level_two": {
             "file": "bgm_level_two.ogg",
@@ -250,13 +269,17 @@
             "name": "BLACK ONION\n~ALLIUM OF HOPE~\nPROMTASTIK"
         },
         "bgm_sacdefer": {
-            "choices": [{
-                "file": "bgm_sacdefer.ogg",
-                "name": "SACRED DEFENDER \n~KARMAPHALA~\nJUSTIN THORNBURGH"
-            },{
-                "file": "bgm_sacdefer2.ogg",
-                "name": "SACRED DEFENDER \n-TRUE FINALBOSS MIX-\nSINCX"
-            }]
+            "choices": [
+                {
+                    "file": "bgm_sacdefer.ogg",
+                    "name": "SACRED DEFENDER \n~KARMAPHALA~\nJUSTIN THORNBURGH"
+                },
+                {
+                    "file": "bgm_sacdefer2.ogg",
+                    "name": "SACRED DEFENDER \n-TRUE FINALBOSS MIX-\nSINCX"
+                }
+            ],
+            "choices_sync": 9
         },
         "bgm_saimaa": {
             "file": "bgm_saimaa.ogg",
