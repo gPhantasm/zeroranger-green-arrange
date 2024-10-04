@@ -1,0 +1,309 @@
+{
+    "pack_name": "GREEN ARRANGE",
+    "hacks": {
+        "no_orangardimus": true,
+        "no_2-1_bossay": true,
+        "despair_pinch_custom": true,
+        "custom_zeroranger_male_shout": true
+    },
+    "replacements": {
+        "_hack_custom_zeroranger_male_shout": {
+            "file": "ZRORANGER.ogg",
+            "name": "ZERORANGER\nEEBROZGI"
+        },
+        "bgm_allclear": {
+            "file": "bgm_allclear.ogg",
+            "name": "HYYEEAAAARH\n+TEK"
+        },
+        "bgm_bonuswave": {
+            "choices": [
+                {
+                    "file": "bgm_bonuswave2.ogg",
+                    "name": "DREAMLIKE REALITY \n-SV3T0V1D-\nSOOTHINGMELODY",
+                    "hack_drmrlt_name_1": "DREAMLIKE REALITY \n-SV3T0V1D-\nSOOTHINGMELODY",
+                    "hack_drmrlt_name_2": "DRM/RLT\nDANTE GOFAR 2",
+                    "hack_drmrlt_name_4": "DRM/RLT\nDANTE GOFAR 4"
+                },
+                {
+                    "file": "bgm_bonuswave.ogg",
+                    "name": "DRM/RLT\nDANTE GOFAR"
+                }
+            ],
+            "choices_sync": 1
+        },
+        "bgm_boss_a": {
+            "file": "bgm_boss_a.ogg",
+            "name": "BOSSAY ~ULTRANITY~\nFUSOXIDE"
+        },
+        "bgm_boss_ab": {
+            "file": "bgm_boss_ab.ogg",
+            "name": "BOSSAY\n~ SPREADING BARRAGE ~\nSOSHI HOSOI"
+        },
+        "bgm_boss_b": {
+            "file": "bgm_boss_b.ogg",
+            "name": "BOSSAY\n~ SPREADING BARRAGE ~\nSOSHI HOSOI"
+        },
+        "bgm_boss_security": {
+            "choices": [
+                {
+                    "file": "bgm_boss_security.ogg",
+                    "name": "FOR YOUR SECURITY\nLEILANNI WILSON"
+                },
+                {
+                    "file": "bgm_boss_security2.ogg",
+                    "name": "FOR YOUR SECURITY\n~COSIO TRIPL3T REMIX~\nCOSIO"
+                }
+            ],
+            "choices_sync": 2
+        },
+        "bgm_crisis": {
+            "file": "bgm_crisis.ogg",
+            "name": "CRISIS\nDOMINIC NINMARK"
+        },
+        "bgm_decisivefight": {
+            "choices": [
+                {
+                    "file": "bgm_decisivefight.ogg",
+                    "name": "SKY XXXX DAYS\nHASU"
+                },
+                {
+                    "file": "bgm_decisivefight2.ogg",
+                    "name": "COLOURS OF MY SKY\nR-MAN FT. KANACHI"
+                }
+            ],
+            "choices_sync": 3
+        },
+        "bgm_despair1": {
+            "file": "bgm_despair1.ogg",
+            "name": "DESCENT AT LAST\n~AN ECHO OF HEAVEN~\nMELOS HAN-TANI"
+        },
+        "bgm_despair2": {
+            "file": "bgm_despair2.ogg",
+            "name": "DESPAIR\n-HIGHKEY HIGH MIX-\nWASI303"
+        },
+        "_hack_bgm_despair2_pinch": {
+            "hack": true,
+            "file": "bgm_despair2_pinch.ogg",
+            "name": "DESPAIR\n(LAST BREATH MIX)\nFRANCISCO CERDA"
+        },
+        "bgm_ending": {
+            "file": "bgm_ending.ogg",
+            "name": "HOLD ON / STALL OUT\nJAXCHEESE"
+        },
+        "bgm_erasure": {
+            "file": "bgm_erasure.ogg",
+            "name": "BOILING BREW\nVIRIX DREAMCORE"
+        },
+        "bgm_erending2": {
+            "file": "bgm_erending2.ogg",
+            "name": "HER SONG |HEAVEN & EARTH|\nPHILIP SAGUIL FT.\n EMMA KOBIN & EEVAMARI"
+        },
+        "bgm_finalapproach": {
+            "file": "bgm_finalapproach.ogg",
+            "name": "MENACING [FIFTH_NUCLEUS]\nCHIMERATIO"
+        },
+        "bgm_finalintro": {
+            "file": "bgm_finalintro.ogg",
+            "name": "PRELUDE - R-MAN"
+        },
+        "bgm_gameover": {
+            "choices": [
+                {
+                    "file": "bgm_gameover.ogg",
+                    "name": "HOLD ON / STALL OUT\nJAXCHEESE"
+                },
+                {
+                    "file": "bgm_gameover2.ogg",
+                    "name": "THE ADVENTURE OF LIFE GOES ON\n~OUR CRY TO INFINITY~\nHEAVYVIPER"
+                }
+            ],
+            "choices_sync": 4
+        },
+        "bgm_getfiredup": {
+            "file": "bgm_getfiredup.ogg",
+            "name": "NOW OR NEVER, GET FIRED UP!!\nDOMINIC NINMARK"
+        },
+        "bgm_goferoffice": {
+            "file": "bgm_goferoffice.ogg",
+            "name": "A WARM RETURN\nKEISHI YONAO"
+        },
+        "bgm_grape": {
+            "file": "bgm_grape.ogg",
+            "name": "RANGER MACHINE MARCH -ZERO-\nMB"
+        },
+        "bgm_hellloop": {
+            "choices": [
+                {
+                    "file": "bgm_hellloop.ogg",
+                    "name": "HEAVY HEART\n-VANILLA MILK MIX-\nMILKYPOSSUM"
+                },
+                {
+                    "file": "bgm_hellloop2.ogg",
+                    "name": "HEAVY HEART\n-AIR MIX-\nAIKATYPE"
+                }
+            ],
+            "choices_sync": 5
+        },
+        "bgm_itsjustalake": {
+            "choices": [
+                {
+                    "file": "bgm_itsjustalake.ogg",
+                    "name": "HEAVY HEART\n-VANILLA MILK MIX-\nMILKYPOSSUM"
+                },
+                {
+                    "file": "bgm_itsjustalake2.ogg",
+                    "name": "HEAVY HEART\n-AIR MIX-\nAIKATYPE"
+                }
+            ],
+            "choices_sync": 5
+        },
+        "bgm_juicestall": {
+            "file": "bgm_juicestall.ogg",
+            "name": "HOLD ON / STALL OUT\nJAXCHEESE"
+        },
+        "bgm_level_four": {
+            "file": "bgm_level_four.ogg",
+            "name": "4TH GEAR \n -DANCE INTO SKULLBASHING-\nGAROSLAW"
+        },
+        "bgm_level_four_b": {
+            "choices": [
+                {
+                    "file": "bgm_level_four_b.ogg",
+                    "name": "UNSTOPPING\nKEISHI YONAO"
+                },
+                {
+                    "file": "bgm_level_four_b2.ogg",
+                    "name": "UNSTOPPING\nCEASELESS CARAVAN ARRANGE\nHEAVYVIPER"
+                }
+            ],
+            "choices_sync": 6
+        },
+        "bgm_level_four_throat": {
+            "file": "bgm_level_four_throat.ogg",
+            "name": "THROATWAVE\nHEAVYVIPER"
+        },
+        "bgm_level_four_vanilla": {
+            "file": "bgm_level_four_vanilla.ogg",
+            "name": "4TH SHADE\n(CYBER DNB MIX)\nANTYMIS"
+        },
+        "bgm_level_one": {
+            "choices": [
+                {
+                    "file": "bgm_level_one.ogg",
+                    "name": "IT MAY BE GREENISH\n~MAIDEN SORTIE~\nKENICHI ARAKAWA"
+                },
+                {
+                    "file": "bgm_level_one2.ogg",
+                    "name": "IT MAY BE GREENISH\n-ETERNAL 80'S ARRANGE-\nLOSER KASHIWAGI"
+                }
+            ],
+            "choices_sync": 7
+        },
+        "bgm_level_one_ex": {
+            "file": "bgm_level_one_ex.ogg",
+            "name": "IT MAY BE GREENISH\n~THAT FUTURE OF OURS~\nMB FT. SOOTHINGMELODY\nELSPETH BAWDEN"
+        },
+        "bgm_level_three": {
+            "file": "bgm_level_three.ogg",
+            "name": "REFRESHENING ~FLOOPY'S\n'EVEN FRESHER' REMIX~\nFLOOPY"
+        },
+        "bgm_level_three_ex": {
+            "choices": [
+                {
+                    "file": "bgm_level_three_ex.ogg",
+                    "name": "THE SEA HAS RETURNED\n~SOARING REUNION~\nEIICHIRO YANAGI AND\n KYOHEI NISHIZAKA"
+                },
+                {
+                    "file": "bgm_level_three_ex2.ogg",
+                    "name": "THE SEA HAS RETURNED\n~ COMET'S EVE ~\nLENA RAINE"
+                },
+                {
+                    "file": "bgm_level_three_ex3.ogg",
+                    "name": "THE SEA HAS RETURNED:\nBENEATH THE WAVES\nRAITO"
+                }
+            ],
+            "choices_sync": 8
+        },
+        "bgm_level_two": {
+            "file": "bgm_level_two.ogg",
+            "name": "FINAL BOX\nSOMESPOONYBARD"
+        },
+        "bgm_level_two_b": {
+            "file": "bgm_level_two_b.ogg",
+            "name": "FINAL BOX - ACT 2\nSOMESPOONYBARD"
+        },
+        "bgm_level_two_b_ex": {
+            "file": "bgm_level_two_b_ex.ogg",
+            "name": "PHYN'LL BÄCKS - ACT 2\nRRTHIEL"
+        },
+        "bgm_level_two_ex": {
+            "file": "bgm_level_two_ex.ogg",
+            "name": "PHYN'LL BÄCKS\nRRTHIEL"
+        },
+        "bgm_menu": {
+            "file": "bgm_menu.ogg",
+            "name": "COMFORTING CHOCOCCINO\n~AFRIKA CHILL MIX~\nAIKATYPE"
+        },
+        "bgm_menu_b": {
+            "file": "bgm_menu_b.ogg",
+            "name": "YYNEM ~ MENYY\nCRYPTOVOLANS"
+        },
+        "bgm_menu_c": {
+            "file": "bgm_menu_c.ogg",
+            "name": "REFRESHENING\n~ THE ORANGE CAFE ~\nMB"
+        },
+        "bgm_menuboot": {
+            "file": "bgm_menuboot.ogg",
+            "name": "BOILING BREW\nVIRIX DREAMCORE"
+        },
+        "bgm_miniboss_a": {
+            "file": "bgm_miniboss_a.ogg",
+            "name": "XOR-TYPE\nNEOZOID"
+        },
+        "bgm_miniboss_c": {
+            "file": "bgm_miniboss_c.ogg",
+            "name": "IMPOSSIBLE ORANGE\n~OUT O' RANGE~\nTEE-VEE"
+        },
+        "bgm_onionstory": {
+            "file": "bgm_onionstory.ogg",
+            "name": "BLACK ONION\n~ALLIUM OF HOPE~\nPROMTASTIK"
+        },
+        "bgm_sacdefer": {
+            "choices": [
+                {
+                    "file": "bgm_sacdefer.ogg",
+                    "name": "SACRED DEFENDER \n~KARMAPHALA~\nJUSTIN THORNBURGH"
+                },
+                {
+                    "file": "bgm_sacdefer2.ogg",
+                    "name": "SACRED DEFENDER \n-TRUE FINALBOSS MIX-\nSINCX"
+                }
+            ],
+            "choices_sync": 9
+        },
+        "bgm_saimaa": {
+            "file": "bgm_saimaa.ogg",
+            "name": "SOUR EATER\n~GLAZE PEELER~\nPOTATOTETO"
+        },
+        "bgm_skypiano1": {
+            "file": "bgm_skypiano1.ogg",
+            "name": "SKY ECHO\nJAXCHEESE"
+        },
+        "bgm_skypiano2": {
+            "file": "bgm_skypiano2.ogg",
+            "name": "SKY ECHO - PART 2\nJAXCHEESE"
+        },
+        "bgm_story": {
+            "file": "bgm_story.ogg",
+            "name": "GREEN ORANGE\n~STORY SO FAR~\nEEBROZGI"
+        },
+        "bgm_swingingcitrus": {
+            "file": "bgm_swingingcitrus.ogg",
+            "name": "SWINGING CITRUS\n~JACKFRUIT SWING ARRANGE~\nJAMPHIBIOUS"
+        },
+        "bgm_victory": {
+            "file": "bgm_victory.ogg",
+            "name": "HYES - +TEK"
+        }
+    }
+}
