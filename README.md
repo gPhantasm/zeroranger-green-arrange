@@ -41,7 +41,7 @@ Also... There is no Orangardimus. I initially had it play a segment of That Futu
 ### Other changes
 
 - The male voice's "MAXIMUM" soundbite has been replaced with eebrozgi yelling "ZERORANGER!".
-- Some flavour text has been modified to match some tracks. There might be more of this in the future.
-- Some extra palettes have been included if you've beaten the TLB.
+- *[DeltaPatch exclusive]* Some flavour text has been modified to match some tracks. There might be more of this in the future.
+- *[DeltaPatch exclusive]* Some extra palettes have been included if you've beaten the TLB.
     - If you use these palettes, it will reset to COOL DAY every time you close the game. This is because the save file has clamping on the palettes that can be set. I don't want to touch how save files work!
 - While I've tested most of the game out, I don't know if some edge cases will crash or behave weirdly. Please let me know on Discord (`gooeyphantasm`) or make an issue here and I'll maybe fix it if I know how.
