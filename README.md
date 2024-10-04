@@ -4,7 +4,7 @@
 
 This mod adds the arranged versions of most tracks to [ZeroRanger](https://store.steampowered.com/app/809020/ZeroRanger/). Not all tracks received arranges, so they are either replaced by another track (System Endless -> The Orange Cafe), retrofitted with a section of some other track (Final Box act 2 -> Final Box (later segment)) or left alone (Void, Apprivorange, etc.).
 
-This is available as either a standard deltapatch based mod, or a musicpack for the [ResourceManager mod](https://juliascythe.net/INSERT_LINK_HERE) which allows for easy switching between packs.
+This is available as either a standard deltapatch based mod, or a musicpack for the [ResourceManager mod](https://juliascythe.net/2024/10/04/resource-manager.html) which allows for easy switching between packs.
 
 It should also be noted that many of the .ogg files present in this mod are heavily edited compared to their album counterparts to fit the context of this game. Please support Resonant Union and System Erasure by [buying the album yourself](https://resonantunion.bandcamp.com/album/zeroranger-arranged-album-green-arrange), if you enjoy this mod. A hell of a lot more work went into these tracks actually being made than what little work I did to fit them into the game.
 
@@ -18,7 +18,7 @@ Use [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) to apply the 
 
 #### ResourceManager version
 
-Ensure you have the [ResourceManager mod](https://juliascythe.net/INSERT_LINK_HERE) installed correctly, then place the entire contents of the repository in `<ZERORANGER FOLDER>/musicpacks/green-arrange`. Select 'GREEN ARRANGE' from the in-game Music Pack setting.
+Ensure you have the [ResourceManager mod](https://juliascythe.net/2024/10/04/resource-manager.html) installed correctly, then place the entire contents of the repository in `<ZERORANGER FOLDER>/musicpacks/green-arrange`. Select 'GREEN ARRANGE' from the in-game Music Pack setting.
 
 ### How does it pick the tracks?
 
