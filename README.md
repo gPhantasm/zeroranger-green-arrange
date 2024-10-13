@@ -4,7 +4,9 @@
 
 This mod adds the arranged versions of most tracks to [ZeroRanger](https://store.steampowered.com/app/809020/ZeroRanger/). Not all tracks received arranges, so they are either replaced by another track (System Endless -> The Orange Cafe), retrofitted with a section of some other track (Final Box act 2 -> Final Box (later segment)) or left alone (Void, Apprivorange, etc.).
 
-This is available as either a standard deltapatch based mod, or a musicpack for the [ResourceManager mod](https://juliascythe.net/2024/10/04/resource-manager.html) which allows for easy switching between packs. If you only want to have the music, I would recommend using ResourceManager. The deltapatch offers a few extra goodies listed at the bottom of the readme.
+This is available as either a standard deltapatch based mod, or a musicpack for the [ResourceManager mod](https://juliascythe.net/2024/10/04/resource-manager.html) which allows for easy switching between packs.
+
+I would recommend using ResourceManager. It allows for easy customization of the mod via its `.json` file, and now supports palettes as well. The only advantage of the included deltapatch is the included flavour text.
 
 It should also be noted that many of the .ogg files present in this mod are heavily edited compared to their album counterparts to fit the context of this game. Please support Resonant Union and System Erasure by [buying the album yourself](https://resonantunion.bandcamp.com/album/zeroranger-arranged-album-green-arrange), if you enjoy this mod. A hell of a lot more work went into these tracks actually being made than what little work I did to fit them into the game.
 
@@ -14,11 +16,11 @@ Since this is just a repo of the edited music files and the patch, making releas
 
 #### DeltaPatch version
 
-Use [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) to apply the .xdelta to the `data.win` of a **2022 Steam version** of [ZeroRanger](https://store.steampowered.com/app/809020/ZeroRanger/). Then copy all the `.ogg` files from the archive to your ZeroRanger folder. Allow overwriting, and do not touch the new files. Then just launch.
+Use [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) to apply the .xdelta to the `data.win` of a **2022 Steam version** of [ZeroRanger](https://store.steampowered.com/app/809020/ZeroRanger/). Then copy all the `.ogg` files from the archive to your ZeroRanger folder. Allow overwriting, and do not touch the new files. Then just launch. Feel free to delete `zrpal` files as they are for ResourceManager.
 
 #### ResourceManager version
 
-Ensure you have the [ResourceManager mod](https://juliascythe.net/2024/10/04/resource-manager.html) installed correctly, then place the entire contents of the repository in `<ZERORANGER FOLDER>/musicpacks/green-arrange`. Select 'GREEN ARRANGE' from the in-game Music Pack setting.
+Ensure you have the [ResourceManager mod](https://juliascythe.net/2024/10/04/resource-manager.html) installed correctly, then place the entire contents of the repository in `<ZERORANGER FOLDER>/musicpacks/green-arrange`. Select 'GREEN ARRANGE' from the in-game Music Pack setting. Palettes will be added to the "Visual" menu alongside the existing palettes.
 
 ### How does it pick the tracks?
 
@@ -41,7 +43,8 @@ Also... There is no Orangardimus. I initially had it play a segment of That Futu
 ### Other changes
 
 - The male voice's "MAXIMUM" soundbite has been replaced with eebrozgi yelling "ZERORANGER!".
+    - *[ResourceManager exclusive]* If you want to disable this, simply set `"custom_zeroranger_male_shout"` at the top of `pack.json` to `false`.
 - *[DeltaPatch exclusive]* Some flavour text has been modified to match some tracks. There might be more of this in the future.
-- *[DeltaPatch exclusive]* Some extra palettes have been included if you've beaten the TLB.
+- Some extra palettes have been included if you've beaten the TLB.
     - If you use these palettes, it will reset to COOL DAY every time you close the game. This is because the save file has clamping on the palettes that can be set. I don't want to touch how save files work!
 - While I've tested most of the game out, I don't know if some edge cases will crash or behave weirdly. Please let me know on Discord (`gooeyphantasm`) or make an issue here and I'll maybe fix it if I know how.
