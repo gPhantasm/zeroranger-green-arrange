@@ -1,0 +1,12 @@
+        palet_name = "BLUEBERRY JAM";
+        colarray[0] = 0;
+        colarray[1] = 334115;
+        colarray[2] = 19732;
+        colarray[3] = 5050703;
+        colarray[4] = 11744662;
+        colarray[5] = 3882925;
+        colarray[6] = 7760605;
+        colarray[7] = 13705762;
+        colarray[8] = 16748431;
+        colarray[9] = 16777215;
+        break;
