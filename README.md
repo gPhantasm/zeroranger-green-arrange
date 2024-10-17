@@ -14,13 +14,13 @@ It should also be noted that many of the .ogg files present in this mod are heav
 
 Since this is just a repo of the edited music files and the patch, making releases makes no sense. Thus, **please download the mod by clicking the green "Code" button up top and "Download ZIP".** This will give you a ZIP file of everything. 
 
+#### ResourceManager version (RECOMMENDED)
+
+Ensure you have the [ResourceManager mod](https://juliascythe.net/2024/10/04/resource-manager.html) installed correctly, then place the entire contents of the repository in `<ZERORANGER FOLDER>/musicpacks/green-arrange`. Select 'GREEN ARRANGE' from the in-game Music Pack setting. Palettes will be added to the "Visual" menu alongside the existing palettes.
+
 #### DeltaPatch version
 
 Use [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) to apply the .xdelta to the `data.win` of a **2022 Steam version** of [ZeroRanger](https://store.steampowered.com/app/809020/ZeroRanger/). Then copy all the `.ogg` files from the archive to your ZeroRanger folder. Allow overwriting, and do not touch the new files. Then just launch. Feel free to delete `zrpal` files as they are for ResourceManager.
-
-#### ResourceManager version
-
-Ensure you have the [ResourceManager mod](https://juliascythe.net/2024/10/04/resource-manager.html) installed correctly, then place the entire contents of the repository in `<ZERORANGER FOLDER>/musicpacks/green-arrange`. Select 'GREEN ARRANGE' from the in-game Music Pack setting. Palettes will be added to the "Visual" menu alongside the existing palettes.
 
 ### How does it pick the tracks?
 
