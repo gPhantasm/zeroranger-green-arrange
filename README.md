@@ -40,12 +40,6 @@ Tracks with multiple versions are chosen randomly every time a run is started (m
 
 and a few others. Special thanks to Kirvoid for showing me how to add new tracks to the game and how to let them be chosen randomly.
 
-## Excluded tracks
-
-~~Some tracks~~ ONE TRACK was omitted because I was simply too lazy to figure out how to fit it in. The Earth Has Returned is very transformed from the original track, and it didn't really fit the vibe of 2-3 anyway. I could have just included it unchanged, but if you got it randomly and felt it didn't fit that would've been sad... If you want to fit it and add it yourself, just overwrite one of the `bgm_level_three_ex` files with your creation.
-
-Also... There is no Orangardimus. I initially had it play a segment of That Future of Ours, but it's kind of annoying when it cuts off the Greenish remixes (imo). So Greenish will just play through that section.
-
 ## Other changes
 
 - The male voice's "MAXIMUM" soundbite has been replaced with eebrozgi yelling "ZERORANGER!".
