@@ -241,16 +241,34 @@
             "name": "PHYN'LL BÄCKS\nRRTHIEL"
         },
         "bgm_menu": {
-            "file": "bgm_menu.ogg",
-            "name": "COMFORTING CHOCOCCINO\n~AFRIKA CHILL MIX~\nAIKATYPE"
+                    "choices": [
+                {
+                    "file": "bgm_menuboot.ogg",
+                    "name": "BOILING BREW\nVIRIX DREAMCORE"
+                },
+                {
+                    "file": "bgm_menu.ogg",
+                    "name": "COMFORTING CHOCOCCINO\n~AFRIKA CHILL MIX~\nAIKATYPE"
+                }
+            ],
+            "choices_sync": 10
         },
         "bgm_menu_b": {
             "file": "bgm_menu_b.ogg",
             "name": "YYNEM ~ MENYY\nCRYPTOVOLANS"
         },
         "bgm_menu_c": {
-            "file": "bgm_menu_c.ogg",
-            "name": "REFRESHENING\n~ THE ORANGE CAFE ~\nMB"
+                    "choices": [
+                {
+                    "file": "bgm_menu_c.ogg",
+                    "name": "REFRESHENING\n~ THE ORANGE CAFE ~\nMB"
+                },
+                {
+                    "file": "bgm_menu_d.ogg",
+                    "name": "THE EARTH HAS RETURNED\nYASUHISA WATANABE"
+                }
+            ],
+            "choices_sync": 11
         },
         "bgm_menuboot": {
             "file": "bgm_menuboot.ogg",
