@@ -36,7 +36,7 @@ Tracks with multiple versions are chosen randomly every time a run is started (m
 - For Your Security
 - UNSTOPPING
 - The Sea Has Returned
-- Final Box (in White Vanilla)
+- Sky XXXX Days
 
 and a few others. Special thanks to Kirvoid for showing me how to add new tracks to the game and how to let them be chosen randomly.
 
