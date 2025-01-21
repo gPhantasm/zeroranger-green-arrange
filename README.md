@@ -8,7 +8,7 @@ You can watch this [video showcase](https://youtu.be/PsD7ZGAG230) to get the gis
 
 This is available as either a standard deltapatch based mod, or a musicpack for the [ResourceManager mod](https://juliascythe.net/2024/10/04/resource-manager.html) which allows for easy switching between packs.
 
-I would recommend using ResourceManager. It allows for easy customization of the mod via its `.json` file, and now supports palettes as well. The only advantage of the included deltapatch is the included flavour text.
+I would recommend using [JuliaScythe](https://github.com/juliaScythe/)'s ResourceManager. It allows for easy customization of the mod via its `.json` file, and now supports palettes as well. The only advantage of the included deltapatch is the included flavour text and simpler setup.
 
 It should also be noted that many of the .ogg files present in this mod are heavily edited compared to their album counterparts to fit the context of this game. Please support Resonant Union and System Erasure by [buying the album yourself](https://resonantunion.bandcamp.com/album/zeroranger-arranged-album-green-arrange), if you enjoy this mod. A hell of a lot more work went into these tracks actually being made than what little work I did to fit them into the game.
 
@@ -20,9 +20,11 @@ Since this is just a repo of the edited music files and the patch, making releas
 
 Ensure you have the [ResourceManager mod](https://juliascythe.net/2024/10/04/resource-manager.html) installed correctly, then place the entire contents of the repository in `<ZERORANGER FOLDER>/musicpacks/green-arrange`. Select 'GREEN ARRANGE' from the in-game Music Pack setting. Palettes will be added to the "Visuals" menu alongside the existing palettes.
 
-### DeltaPatch
+### DeltaPatch (Deprecated)
 
 Use [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) to apply the included `.xdelta` to the `data.win` of a **2022 Steam version** of [ZeroRanger](https://store.steampowered.com/app/809020/ZeroRanger/). Then copy all the `.ogg` files from the archive to your ZeroRanger folder. Allow overwriting, and do not touch the new files. Then just launch. Feel free to delete `zrpal` files as they are for ResourceManager.
+
+Note that while this way of using the mod requires less setup, it also will not be updated in the future and does not allow easily switching between the original OST and other musicpacks. 
 
 ### Itch to Steam
 
