@@ -1,0 +1,13 @@
+
+        palet_name = "CELESTIAL HUES";
+        colarray[0] = 0;
+        colarray[1] = 1255232;
+        colarray[2] = 4475243;
+        colarray[3] = 5867007;
+        colarray[4] = 8704496;
+        colarray[5] = 3152669;
+        colarray[6] = 6037547;
+        colarray[7] = 11352900;
+        colarray[8] = 16751084;
+        colarray[9] = 16777215;
+        break;

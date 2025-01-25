@@ -1,0 +1,12 @@
+palet_name = "BLUE ELROY";
+        colarray[0] = 0;
+        colarray[1] = 7459;
+        colarray[2] = 4784278;
+        colarray[3] = 2123670;
+        colarray[4] = 4700671;
+        colarray[5] = 723799;
+        colarray[6] = 2171391;
+        colarray[7] = 14589696;
+        colarray[8] = 16777110;
+        colarray[9] = 16777215;
+        break;

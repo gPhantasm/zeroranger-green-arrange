@@ -1,0 +1,12 @@
+        palet_name = "BANEBERRY";
+        colarray[0] = 197379;
+        colarray[1] = 1967395;
+        colarray[2] = 5244277;
+        colarray[3] = 8718456;
+        colarray[4] = 16728699;
+        colarray[5] = 6710886;
+        colarray[6] = 10724259;
+        colarray[7] = 11053224;
+        colarray[8] = 15132390;
+        colarray[9] = 16777215;
+        break;

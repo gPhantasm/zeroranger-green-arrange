@@ -1,0 +1,12 @@
+        palet_name = "AMAYA"
+        colarray[0] = 51
+        colarray[1] = 36
+        colarray[2] = 107
+        colarray[3] = 4999280
+        colarray[4] = 13420748
+        colarray[5] = 9711881
+        colarray[6] = 10249801
+        colarray[7] = 16732943
+        colarray[8] = 16755043
+        colarray[9] = 16777215
+        break

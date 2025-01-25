@@ -18,8 +18,12 @@ Since this is just a repo of the edited music files and the patch, making releas
 
 ### ResourceManager (RECOMMENDED)
 
-Ensure you have the [ResourceManager mod](https://juliascythe.net/2024/10/04/resource-manager.html) installed correctly, then place the entire contents of the repository in `<ZERORANGER FOLDER>/musicpacks/green-arrange`. Select 'GREEN ARRANGE' from the in-game Music Pack setting. Palettes will be added to the "Visuals" menu alongside the existing palettes.
+Ensure you have the [ResourceManager mod](https://juliascythe.net/2024/10/04/resource-manager.html) installed correctly, then place the entire contents of the repository in your ZeroRanger folder (you can find this easily by right-clicking on ZeroRanger and selecting "Browse local files"). If you've done this correctly, the musicpack will be written into the `musicpacks` folder. Select 'GREEN ARRANGE' from the in-game musicpack setting. Palettes will be added to the "Visuals" menu alongside the existing palettes. Feel free to delete the `mod.toml` file as it is for NirvanaMM.
 
+### NirvanaMM
+
+If you are using [NirvanaMM](https://github.com/Jamesthe1/nirvanamm), this pack is supported with ResourceManager as a dependency. Download the newest [release](https://github.com/gPhantasm/zeroranger-green-arrange/releases) and place the `.zip` file in your `mods` folder, so that it has its own folder in there. Ensure you also have a compatible version of ResourceManager installed in a similar fashion. If done correctly, the musicpack will appear in the in-game sound settings, and palettes will be appended to the list in the visual settings.
+ 
 ### DeltaPatch (Deprecated)
 
 Use [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) to apply the included `.xdelta` to the `data.win` of a **2022 Steam version** of [ZeroRanger](https://store.steampowered.com/app/809020/ZeroRanger/). Then copy all the `.ogg` files from the archive to your ZeroRanger folder. Allow overwriting, and do not touch the new files. Then just launch. Feel free to delete `zrpal` files as they are for ResourceManager.
