@@ -1,0 +1,9 @@
+manifest = 1
+
+[metadata]
+name = "[RESMGR] Green Arrange"
+guid = "social.bsky.gphantasm.greenarr"
+version = "1.0.0"
+author = "gooeyPhantasm, Resonant Union"
+target = "com.se-made.zeroranger"
+depends = ["net.juliascythe.resmgr:>=1.3.0"]
