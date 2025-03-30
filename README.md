@@ -23,12 +23,6 @@ Ensure you have the [ResourceManager mod](https://juliascythe.net/2024/10/04/res
 ### NirvanaMM
 
 If you are using [NirvanaMM](https://github.com/Jamesthe1/nirvanamm), this pack is supported with ResourceManager as a dependency. Download the newest [release](https://github.com/gPhantasm/zeroranger-green-arrange/releases) and place the `.zip` file in your `mods` folder, so that it has its own folder in there. Ensure you also have a compatible version of ResourceManager installed in a similar fashion. If done correctly, the musicpack will appear in the in-game sound settings, and palettes will be appended to the list in the visual settings.
- 
-### DeltaPatch (Deprecated)
-
-Use [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) to apply the included `.xdelta` to the `data.win` of a **2022 Steam version** of [ZeroRanger](https://store.steampowered.com/app/809020/ZeroRanger/). Then copy all the `.ogg` files from the archive to your ZeroRanger folder. Allow overwriting, and do not touch the new files. Then just launch. Feel free to delete `zrpal` files as they are for ResourceManager.
-
-Note that while this way of using the mod requires less setup, it also will not be updated in the future and does not allow easily switching between the original OST and other musicpacks. 
 
 ### Itch to Steam
 
