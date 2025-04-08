@@ -9,7 +9,7 @@
     "replacements": {
         "_hack_custom_zeroranger_male_shout": {
             "file": "ZRORANGER.ogg",
-            "name": "ZERORANGER\nEEBROZGI"
+            "name": "ZERORANGER\nSOOTHINGMELODY"
         },
         "bgm_allclear": {
             "file": "bgm_allclear.ogg",
@@ -321,6 +321,10 @@
         },
         "bgm_victory": {
             "file": "bgm_victory.ogg",
+            "name": "HYES - +TEK"
+        },
+                "bgm_victory_drumless": {
+            "file": "bgm_victory_drumless.ogg",
             "name": "HYES - +TEK"
         }
     }
