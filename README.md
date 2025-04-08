@@ -42,7 +42,7 @@ and a few others. The functionality of this can be adjusted by editing the `pack
 
 ## Other changes
 
-- The male voice's "MAXIMUM" soundbite has been replaced with soothingMelody yelling "ZERORANGER!".
+- The male voice's "MAXIMUM" soundbite has been replaced with eebrozgi yelling "ZERORANGER!".
     - If you want to disable this, simply set `"custom_zeroranger_male_shout"` at the top of `pack.json` to `false`.
 - Some extra palettes have been included if you've beaten the TLB.
 - While I've tested most of the game out, I don't know if some edge cases will crash or behave weirdly. Please let me know on Discord (`gooeyphantasm`) or make an issue here and I'll maybe fix it if I know how.
