@@ -204,8 +204,19 @@
             "name": "IT MAY BE GREENISH\n~THAT FUTURE OF OURS~\nMB FT. SOOTHINGMELODY,\nELSPETH BAWDEN"
         },
         "bgm_level_three": {
-            "file": "bgm_level_three.ogg",
-            "name": "REFRESHENING ~FLOOPY'S\n'EVEN FRESHER' REMIX~\nFLOOPY"
+            "choices": [
+            {
+                "file": "bgm_level_three.ogg",
+                "name": "REFRESHENING ~FLOOPY'S\n'EVEN FRESHER' REMIX~\nFLOOPY"
+            },
+            {
+
+                "file": "bgm_menu_c.ogg",
+                "name": "REFRESHENING\n~ THE ORANGE CAFE ~\nMB"
+            }
+            ],
+            "choices_sync": 16
+
         },
         "bgm_level_three_ex": {
             "choices": [
