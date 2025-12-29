@@ -18,11 +18,7 @@ Since this is just a repo of the edited music files and the patch, making releas
 
 ### ResourceManager (RECOMMENDED)
 
-Ensure you have the [ResourceManager mod](https://juliascythe.net/2024/10/04/resource-manager.html) installed correctly, then place the entire contents of the repository in your ZeroRanger folder (you can find this easily by right-clicking on ZeroRanger and selecting "Browse local files"). If you've done this correctly, the musicpack will be written into the `musicpacks` folder. Select 'GREEN ARRANGE' from the in-game musicpack setting. Palettes will be added to the "Visuals" menu alongside the existing palettes. Feel free to delete the `mod.toml` file as it is for NirvanaMM.
-
-### NirvanaMM
-
-If you are using [NirvanaMM](https://github.com/Jamesthe1/nirvanamm), this pack is supported with ResourceManager as a dependency. Download the newest [release](https://github.com/gPhantasm/zeroranger-green-arrange/releases) and place the `.zip` file in your `mods` folder, so that it has its own folder in there. Ensure you also have a compatible version of ResourceManager installed in a similar fashion. If done correctly, the musicpack will appear in the in-game sound settings, and palettes will be appended to the list in the visual settings.
+Ensure you have the [ResourceManager mod](https://juliascythe.net/2024/10/04/resource-manager.html) installed correctly, then place the entire contents of the repository in your ZeroRanger folder (you can find this easily by right-clicking on ZeroRanger and selecting "Browse local files"). If you've done this correctly, the musicpack will be written into the `musicpacks` folder. Select 'GREEN ARRANGE' from the in-game musicpack setting. Palettes will be added to the "Visuals" menu alongside the existing palettes.
 
 ### Itch to Steam
 
