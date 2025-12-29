@@ -69,6 +69,10 @@
                 {
                     "file": "bgm_decisivefight2.ogg",
                     "name": "COLOURS OF MY SKY\nR-MAN FT. KANACHI"
+                },
+                {
+                    "file": "bgm_decisivefight3.ogg",
+                    "name": "COLOURS OF MY SKY\nR-MAN FT. KANACHI"
                 }
             ],
             "choices_sync": 3
@@ -205,18 +209,16 @@
         },
         "bgm_level_three": {
             "choices": [
-            {
-                "file": "bgm_level_three.ogg",
-                "name": "REFRESHENING ~FLOOPY'S\n'EVEN FRESHER' REMIX~\nFLOOPY"
-            },
-            {
-
-                "file": "bgm_menu_c.ogg",
-                "name": "REFRESHENING\n~ THE ORANGE CAFE ~\nMB"
-            }
+                {
+                    "file": "bgm_level_three.ogg",
+                    "name": "REFRESHENING ~FLOOPY'S\n'EVEN FRESHER' REMIX~\nFLOOPY"
+                },
+                {
+                    "file": "bgm_menu_c.ogg",
+                    "name": "REFRESHENING\n~ THE ORANGE CAFE ~\nMB"
+                }
             ],
             "choices_sync": 16
-
         },
         "bgm_level_three_ex": {
             "choices": [
@@ -252,7 +254,7 @@
             "name": "PHYN'LL BÄCKS\nRRTHIEL"
         },
         "bgm_menu": {
-                    "choices": [
+            "choices": [
                 {
                     "file": "bgm_menuboot.ogg",
                     "name": "BOILING BREW\nVIRIX DREAMCORE"
@@ -269,7 +271,7 @@
             "name": "YYNEM ~ MENYY\nCRYPTOVOLANS"
         },
         "bgm_menu_c": {
-                    "choices": [
+            "choices": [
                 {
                     "file": "bgm_menu_c.ogg",
                     "name": "REFRESHENING\n~ THE ORANGE CAFE ~\nMB"
@@ -334,7 +336,7 @@
             "file": "bgm_victory.ogg",
             "name": "HYES - +TEK"
         },
-                "bgm_victory_drumless": {
+        "bgm_victory_drumless": {
             "file": "bgm_victory_drumless.ogg",
             "name": "HYES - +TEK"
         }
