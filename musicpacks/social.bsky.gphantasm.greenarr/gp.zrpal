@@ -1,12 +1,12 @@
-        palet_name = "PHANTASMAL";
-        colarray[0] = 0;
-        colarray[1] = 2173225;
-        colarray[2] = 4148557;
-        colarray[3] = 4025139;
-        colarray[4] = 8107373;
-        colarray[5] = 4095405;
-        colarray[6] = 4100013;
-        colarray[7] = 10233116;
-        colarray[8] = 12724572;
-        colarray[9] = 16777215;
-        break;
+palet_name = "PHANTASTIC"
+colarray[0] = 0
+colarray[1] = 1706537
+colarray[2] = 1916237
+colarray[3] = 4025139
+colarray[4] = 8107373
+colarray[5] = 20909
+colarray[6] = 7484876
+colarray[7] = 13706790
+colarray[8] = 15100522
+colarray[9] = 16777215
+break;
